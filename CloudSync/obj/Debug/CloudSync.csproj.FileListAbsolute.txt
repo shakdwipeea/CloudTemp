@@ -1,0 +1,9 @@
+c:\users\ashak_000\documents\visual studio 2013\Projects\CloudSync\CloudSync\bin\Debug\CloudSync.exe.config
+C:\Users\ashak_000\documents\visual studio 2013\Projects\CloudSync\CloudSync\bin\Debug\CloudSync.exe
+C:\Users\ashak_000\documents\visual studio 2013\Projects\CloudSync\CloudSync\bin\Debug\CloudSync.pdb
+C:\Users\ashak_000\documents\visual studio 2013\Projects\CloudSync\CloudSync\obj\Debug\CloudSync.csprojResolveAssemblyReference.cache
+C:\Users\ashak_000\documents\visual studio 2013\Projects\CloudSync\CloudSync\obj\Debug\CloudSync.Form1.resources
+C:\Users\ashak_000\documents\visual studio 2013\Projects\CloudSync\CloudSync\obj\Debug\CloudSync.Properties.Resources.resources
+C:\Users\ashak_000\documents\visual studio 2013\Projects\CloudSync\CloudSync\obj\Debug\CloudSync.csproj.GenerateResource.Cache
+C:\Users\ashak_000\documents\visual studio 2013\Projects\CloudSync\CloudSync\obj\Debug\CloudSync.exe
+C:\Users\ashak_000\documents\visual studio 2013\Projects\CloudSync\CloudSync\obj\Debug\CloudSync.pdb
